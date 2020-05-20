@@ -10,7 +10,7 @@ Installation
 
 Install::
 
-    pip install upsource-api
+    pip install python-upsource-api
 
 Compatibility
 -------------

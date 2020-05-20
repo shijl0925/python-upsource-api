@@ -17,14 +17,14 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='upsource-api',
+    name='python-upsource-api',
 
     # https://packaging.python.org/en/latest/single_source_version.html
     version='1.0.0',
 
     description='Jetbrains Upsource API handler for Python',
     long_description=long_description,
-    url='https://github.com/shijl0925/upsource-api',
+    url='https://github.com/shijl0925/python-upsource-api',
     author='Jialiang Shi',
     author_email='kevin09254930sjl@gmail.com',
     license='MIT',
